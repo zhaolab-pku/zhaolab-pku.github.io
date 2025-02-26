@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Shan Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: ZhaoShan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shan
+last_name: Zhao
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: College of Future Technology Peking University
+    url: https://future.pku.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:shan.zhao@pku.edu.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,42 +47,31 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Tissue transparency
+  - Spatial omics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Medical Research (Ph.D.)
+    institution: Ludwig-Maximilians-Universität, Germany
+    date_start: 2017-02-01
+    date_end: 2020-12-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Ph.D. Thesis: “Holistic Three-dimensional Cellular Mapping of Mammalian Organs by Tissue Clearing”, defended on 09.12.2020.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Applied Chemistry (Master)
+    institution: Beijing Institute of Technology, China
+    date_start: 2007-09-01
+    date_end: 2009-07-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Supervisor: Gongzheng Zhang
+  - area: Pharmaceutical Engineering and Technology (Bachelor of Engineering)
+    institution: Beijing Institute of Technology, China
+    date_start: 2003-09-01
+    date_end: 2007-07-01
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Zhao received her PhD in Medical Research at Ludwig Maximilian University of Munich under the supervision of Professor Ali Maximilian Ertürk in 2020. Then she conducted postdoctoral research at University of Zurich/ETH working with Professor Bernd Bodenmiller. She joined NBIC in October of 2024 as an Assistant Professor. 
