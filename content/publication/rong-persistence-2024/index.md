@@ -33,7 +33,7 @@ authors:
 - Zeynep Ilgin Kolabas
 - Müge Molbay
 - Izabela Horvath
-- Shan Zhao
+- admin
 - Natalie Krahmer
 - Ali Önder Yildirim
 - Siegfried Ussar

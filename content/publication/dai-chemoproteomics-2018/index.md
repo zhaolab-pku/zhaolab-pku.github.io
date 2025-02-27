@@ -4,7 +4,7 @@ title: Chemoproteomics reveals baicalin activates hepatic CPT1 to ameliorate die
 authors:
 - Jianye Dai
 - Kai Liang
-- Shan Zhao
+- admin
 - Wentong Jia
 - Yuan Liu
 - Hongkun Wu

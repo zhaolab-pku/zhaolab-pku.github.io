@@ -8,7 +8,7 @@ authors:
 - Gabriela R. Araujo
 - Ruiyao Cai
 - Anna Maria Reuss
-- Shan Zhao
+- admin
 - Patricia Schmid
 - Sven Hildebrand
 - Martina Schaettin

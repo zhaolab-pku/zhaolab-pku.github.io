@@ -2,7 +2,7 @@
 title: Off-the-shelf microsponge arrays for facile and efficient construction of miniaturized
   3D cellular microenvironments for versatile cell-based assays
 authors:
-- Shan Zhao
+- admin
 - Hui Zhao
 - Xinyong Zhang
 - Yaqian Li

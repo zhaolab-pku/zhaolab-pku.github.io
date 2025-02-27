@@ -2,7 +2,7 @@
 title: 'Photo-induced coupling reactions of tetrazoles with carboxylic acids in aqueous
   solution: application in protein labelling'
 authors:
-- Shan Zhao
+- admin
 - Jianye Dai
 - Mo Hu
 - Chang Liu

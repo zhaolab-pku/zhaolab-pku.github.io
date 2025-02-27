@@ -4,7 +4,7 @@ title: Micro-scaffold array chip for upgrading cell-based high-throughput drug t
 authors:
 - Xiaokang Li
 - Xinyong Zhang
-- Shan Zhao
+- admin
 - Jingyu Wang
 - Gang Liu
 - Yanan Du

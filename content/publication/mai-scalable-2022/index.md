@@ -3,7 +3,7 @@ title: Scalable tissue labeling and clearing of intact human organs
 authors:
 - Hongcheng Mai
 - Zhouyi Rong
-- Shan Zhao
+- admin
 - Ruiyao Cai
 - Hanno Steinke
 - Ingo Bechmann

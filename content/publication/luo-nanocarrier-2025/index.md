@@ -8,7 +8,7 @@ authors:
 - Izabela Horvath
 - Karoline Kadletz
 - Benjamin Kick
-- Shan Zhao
+- admin
 - Rami Al-Maskari
 - Inderjeet Singh
 - Mayar Ali

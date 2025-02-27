@@ -2,7 +2,7 @@
 title: Glycerol-Mediated Nanostructure Modification Leading to Improved Transparency
   of Porous Polymeric Scaffolds for High Performance 3D Cell Imaging
 authors:
-- Shan Zhao
+- admin
 - Zhiyuan Shen
 - Jingyu Wang
 - Xiaokang Li

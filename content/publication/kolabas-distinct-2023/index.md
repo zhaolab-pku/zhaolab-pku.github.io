@@ -40,7 +40,7 @@ authors:
 - Doris Kaltenecker
 - Laurin Lux
 - Ying Chen
-- Shan Zhao
+- admin
 - Boris-Stephan Rauchmann
 - Michael Sterr
 - Ines Kunze

@@ -5,7 +5,7 @@ authors:
 - Zeynep Ilgin Kolabas
 - Chenchen Pan
 - Hongcheng Mai
-- Shan Zhao
+- admin
 - Doris Kaltenecker
 - Fabian F. Voigt
 - Muge Molbay

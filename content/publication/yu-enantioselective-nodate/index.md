@@ -6,7 +6,7 @@ authors:
 - Fan Su
 - Chang Liu
 - Haosen Yuan
-- Shan Zhao
+- admin
 - Zhiyao Zhou
 - Tianfei Quan
 - Tuoping Luo

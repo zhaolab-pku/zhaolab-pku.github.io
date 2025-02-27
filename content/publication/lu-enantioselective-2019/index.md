@@ -3,7 +3,7 @@ title: 'Enantioselective syntheses and application of 4- textitepi -galiellalact
   and the corresponding activity-based probe: from strained bicycles to strained tricycles'
 authors:
 - Yandong Lu
-- Shan Zhao
+- admin
 - Shijie Zhou
 - Si-Cong Chen
 - Tuoping Luo

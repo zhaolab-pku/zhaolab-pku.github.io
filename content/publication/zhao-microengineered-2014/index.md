@@ -4,7 +4,7 @@ title: Microengineered textitin vitro model of cardiac fibrosis through modulati
 authors:
 - Hui Zhao
 - Xiaokang Li
-- Shan Zhao
+- admin
 - Yang Zeng
 - Long Zhao
 - Haiyan Ding

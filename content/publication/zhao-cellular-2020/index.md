@@ -1,7 +1,7 @@
 ---
-title: Cellular and Molecular Probing of Intact Human Organs
+title: "Cellular and Molecular Probing of Intact Human Organs"
 authors:
-- Shan Zhao
+- admin
 - Mihail Ivilinov Todorov
 - Ruiyao Cai
 - Rami Ai -Maskari
@@ -26,10 +26,9 @@ authors:
 - Ali Ertürk
 date: '2020-02-01'
 publishDate: '2025-02-27T01:15:01.685572Z'
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 publication: '*Cell*'
-doi: 10.1016/j.cell.2020.01.030
+doi: "10.1016/j.cell.2020.01.030"
 abstract: Optical tissue transparency permits scalable cellular and molecular investigation
   of complex tissues in 3D. Adult human organs are particularly challenging to render
   transparent because of the accumulation of dense and sturdy molecules in decades-aged
@@ -42,7 +41,18 @@ abstract: Optical tissue transparency permits scalable cellular and molecular in
   pipeline to analyze millions of cells in cleared human brain tissues within hours
   with standard lab computers. Overall, SHANEL is a robust and unbiased technology
   to chart the cellular and molecular architecture of large intact mammalian organs.
-links:
-- name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0092867420301112
+
+summary: SHANEL permeabilizes aged human organs for deep 3D imaging, enabling transparency, comprehensive labeling, and rapid cell-level analysis.
+
+url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0092867420301112
+
+tags: Organ transparent and 3D reconstruction
+
+featured: true
+
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
 ---

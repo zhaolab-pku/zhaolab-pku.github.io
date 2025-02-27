@@ -7,7 +7,7 @@ authors:
 - Alireza Ghasemigharagoz
 - Mihail Ivilinov Todorov
 - Benjamin Förstera
-- Shan Zhao
+- admin
 - Harsharan S. Bhatia
 - Arnaldo Parra-Damas
 - Leander Mrowka

@@ -6,7 +6,7 @@ authors:
 - Moritz Negwer
 - Luciano Hoeher
 - Florian Kofler
-- Shan Zhao
+- admin
 - Mihail Todorov
 - Zhouyi Rong
 - Johannes Christian Paetzold
