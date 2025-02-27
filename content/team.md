@@ -16,7 +16,7 @@ permalink: /team
 
             <div class="col-md-3 col-sm-3">
               <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/78ee2ae6c3224cf6ad619d055a8dd2b0.htm">
-                <img class="rounded mx-auto d-block" src="{{site.baseurl}}/assets/img/team/shanzhao.jpg" width="166px">
+                <img class="rounded mx-auto d-block" src="{{site.baseurl}}/assets/img/team/avartar.png" width="166px">
               </a>
             </div>
     
@@ -48,7 +48,7 @@ Dr. Zhao received her PhD in Medical Research at Ludwig Maximilian University of
 <table >
 <tr> 
 <td >
-<img src=" {{site.baseurl}}/assets/img/team/shanzhao.jpg"  width="200px"/> 
+<img src=" {{site.baseurl}}/assets/img/team/avartar.png"  width="200px"/> 
 </td> 
 <td>
 <h4>Shan Zhao (赵姗)</h4>
