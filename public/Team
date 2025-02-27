@@ -1,0 +1,102 @@
+---
+layout: page
+title: 
+permalink: /team
+---
+
+
+<style>
+table {
+    width: 100%;
+  }
+  .img-cell {
+    width: 25%; /* 分配25%宽度给图片 */
+  }
+  .img-cell img {
+    width: 100%; /* 图片宽度自适应单元格 */
+    height: auto;
+  }
+  .text-cell {
+    width: 25%; /* 分配25%宽度给文字 */
+  }
+
+
+  .imgContainer{
+         display: flex;
+    width: 100%;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+    .imgContainer li:hover{
+    box-shadow: 0px 0px 5px 0px #999;
+    transition: .5s;
+    }
+    .imgContainer li{
+      list-style: none;
+    margin: 20px 0;
+    box-shadow: 0px 0px 2px 0px #999;
+
+    display: flex;
+    width: 48%;
+    }
+    .imgContainer .imgWrap{
+          width: 250px;
+    display: flex;
+    padding: 20px;
+    }
+    .imgContainer li .content{
+      flex: 1;
+      padding: 0px 20px;
+    }
+    .imgContainer li .content p {
+      line-height: 30px;
+    }
+    .imgContainer li img{
+      width: 100%;
+        height: fit-content;
+    }
+    .imgContainer h4{
+      margin: 0;
+      line-height: 50px;
+    }
+</style>
+
+
+
+<h2 align="center">Principal Investigator</h2>
+<table >
+<tr> 
+<td >
+<img src=" {{site.baseurl}}/assets/img/team/shan.jpeg"  width="800px"/> 
+</td> 
+<td>
+<h4>Shan Zhao (赵姗)</h4>
+<p class="text-muted" style="font-size:90%;line-height: 1em;">Assistant Professor at Peking University</p>
+                <p style="font-size:90%"> Email: shan.zhao@pku.edu.cn<a href="mailto:shan.zhao@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+          
+                 
+<a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/78ee2ae6c3224cf6ad619d055a8dd2b0.htm" target="_blank">CFT PI page</a> 
+                  <p> Dr. Zhao received her PhD in Medical Research at Ludwig Maximilian University of Munich under the supervision of Professor Ali Maximilian Ertürk in 2020. Then she conducted postdoctoral research at University of Zurich/ETH working with Professor Bernd Bodenmiller. She joined NBIC in October of 2024 as an Assistant Professor.
+                  
+</td>
+</tr>
+</table>
+
+<h2 align="center">Current Team Members</h2>
+
+<ul class="imgContainer">
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/tm.png" alt="Yuyang He">
+    </div>
+    <div class="content">
+      <h4>Yuyang He (贺禹洋)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Ph.D. Student</p>
+      <p style="font-size:90%">CS, Xinjiang University</p>
+      <a href="mailto:" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+ 
+  

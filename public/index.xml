@@ -7,7 +7,7 @@
     <description>Welcome to ZhaoLab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu4686332627918520097.png</url>
       <title>Welcome to ZhaoLab</title>
       <link>http://localhost:1313/</link>
     </image>
@@ -31,14 +31,6 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Enantioselective Total Syntheses of Various Amphilectane and Serrulatane Diterpenoids via Cope Rearrangements</title>
-      <link>http://localhost:1313/publication/yu-enantioselective-nodate/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu-enantioselective-nodate/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -334,7 +326,7 @@
 
 
 
-&lt;div id=&#34;chart-958412376&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-574683129&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -352,7 +344,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-958412376&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-574683129&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1039,6 +1031,14 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/publication/lu-enantioselective-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/lu-enantioselective-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enantioselective Total Syntheses of Various Amphilectane and Serrulatane Diterpenoids via Cope Rearrangements</title>
+      <link>http://localhost:1313/publication/yu-enantioselective-nodate/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yu-enantioselective-nodate/</guid>
       <description></description>
     </item>
     

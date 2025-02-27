@@ -5,20 +5,12 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu4686332627918520097.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
-    
-    <item>
-      <title>Enantioselective Total Syntheses of Various Amphilectane and Serrulatane Diterpenoids via Cope Rearrangements</title>
-      <link>http://localhost:1313/publication/yu-enantioselective-nodate/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu-enantioselective-nodate/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Nanocarrier imaging at single-cell resolution across entire mouse bodies with deep learning</title>
@@ -129,6 +121,14 @@
       <link>http://localhost:1313/publication/lu-enantioselective-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/lu-enantioselective-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enantioselective Total Syntheses of Various Amphilectane and Serrulatane Diterpenoids via Cope Rearrangements</title>
+      <link>http://localhost:1313/publication/yu-enantioselective-nodate/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yu-enantioselective-nodate/</guid>
       <description></description>
     </item>
     
