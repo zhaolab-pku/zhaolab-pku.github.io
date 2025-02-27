@@ -48,7 +48,7 @@ Dr. Zhao received her PhD in Medical Research at Ludwig Maximilian University of
 <table >
 <tr> 
 <td >
-<img src=" {{site.baseurl}}/assets/img/team/avartar.png"  width="200px"/> 
+<img src=" {main/resources/_gen/images/author/%E8%B5%B5%E5%A7%97/avatar_hu18189006857579519919.png"  width="200px"/> 
 </td> 
 <td>
 <h4>Shan Zhao (赵姗)</h4>
