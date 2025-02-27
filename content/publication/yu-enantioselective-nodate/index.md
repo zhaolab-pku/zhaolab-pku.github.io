@@ -10,8 +10,8 @@ authors:
 - Zhiyao Zhou
 - Tianfei Quan
 - Tuoping Luo
-date: 2025-02-27
-publishDate: '2025-02-27T01:15:01.715745Z'
+date: 2018-08-29
+publishDate: '2018-08-29T01:15:01.715745Z'
 publication_types:
 - article-journal
 publication: '*Journal of the American Chemical Society*'
