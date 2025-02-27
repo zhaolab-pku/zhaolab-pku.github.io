@@ -16,7 +16,7 @@ permalink: /team
 
             <div class="col-md-3 col-sm-3">
               <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/78ee2ae6c3224cf6ad619d055a8dd2b0.htm">
-                <img class="rounded mx-auto d-block" src="{{site.baseurl}}/assets/img/team/avartar.png" width="166px">
+                <img class="rounded mx-auto d-block" src="{{main/resources/_gen/images/author/%E8%B5%B5%E5%A7%97/avatar_hu18189006857579519919.png" width="166px">
               </a>
             </div>
     
