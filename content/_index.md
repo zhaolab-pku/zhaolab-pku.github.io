@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        The molecular and structural research of holistic organisms aims to comprehensively delineate their composition, structure, function and interrelationship at the molecular, cellular, tissue and organ levels. 
+        
+        Dr. Zhao's laboratory is committed to elucidating the molecular and structural details of organism that governing physiological and pathological changes, by developing 3D multi-omics technologies that combining whole organ transparency, advanced imaging system (e.g. light-sheet) and deep-learning analysis for a wide range of biomedical studies, including Cancer and Microbiome, Stroke, Quantitative Medicine, etc. 
         
         Please reach out to collaborate 😃
     design:
