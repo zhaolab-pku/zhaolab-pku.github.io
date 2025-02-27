@@ -53,7 +53,7 @@ Dr. Zhao received her PhD in Medical Research at Ludwig Maximilian University of
 <td>
 <h4>Shan Zhao (赵姗)</h4>
 <p class="text-muted" style="font-size:90%;line-height: 1em;">Assistant Professor at Peking University</p>
-                <p style="font-size:90%">Email: shan.zhao &lt;at&gt; pku.edu.cn<br>Tel: +86 (010) 62767687 <br>
+                <p style="font-size:90%">Email: shan.zhao &lt;at&gt; pku.edu.cn<br>
                   <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/78ee2ae6c3224cf6ad619d055a8dd2b0.htm" target="_blank">Departmental page</a></p>
 </td>
 </tr>
