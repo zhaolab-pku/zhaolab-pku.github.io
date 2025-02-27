@@ -67,7 +67,7 @@ education:
     date_end: 2009-07-01
     summary: |
       Supervisor: Gongzheng Zhang
-  - area: Pharmaceutical Engineering and Technology (Bachelor of Engineering)
+  - area: PET (Bachelor of Engineering)
     institution: Beijing Institute of Technology, China
     date_start: 2003-09-01
     date_end: 2007-07-01
