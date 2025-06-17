@@ -1,0 +1,58 @@
+---
+title: Chemoproteomics reveals baicalin activates hepatic CPT1 to ameliorate diet-induced
+  obesity and hepatic steatosis
+authors:
+- Jianye Dai
+- Kai Liang
+- admin
+- Wentong Jia
+- Yuan Liu
+- Hongkun Wu
+- Jia Lv
+- Chen Cao
+- Tao Chen
+- Shentian Zhuang
+- Xiaomeng Hou
+- Shijie Zhou
+- Xiannian Zhang
+- Xiao-Wei Chen
+- Yanyi Huang
+- Rui-Ping Xiao
+- Yan-Ling Wang
+- Tuoping Luo
+- Junyu Xiao
+- Chu Wang
+date: '2018-06-01'
+publishDate: '2025-02-27T01:15:01.700505Z'
+publication_types:
+- article-journal
+publication: '*Proceedings of the National Academy of Sciences*'
+doi: 10.1073/pnas.1801745115
+abstract: Significance  Baicalin is a major flavonoid component from the herbal medicine
+  Scutellaria baicalensis that has been shown to have an antisteatosis effect. Through
+  quantitative chemoproteomic profiling, we discovered that baicalin acts as a natural
+  allosteric activator of carnitine palmitoyltransferase 1 (CPT1), the rate-limiting
+  enzyme of fatty acid β-oxidation (FAO). By directly binding to CPT1 and activating
+  its activity to accelerate fatty acid degradation, baicalin can significantly ameliorate
+  symptoms associated with hepatic steatosis and reduce diet-induced obesity (DIO).
+  Our study provides an example of a natural product agonist for CPT1. The results
+  provide mechanistic insights to explain the bioactivity of baicalin in reducing
+  lipid accumulation and introduce exciting opportunities for developing novel flavonoid-based
+  FAO activators for pharmacologically treating DIO and associated metabolic disorders.  ,   Obesity
+  and related metabolic diseases are becoming worldwide epidemics that lead to increased
+  death rates and heavy health care costs. Effective treatment options have not been
+  found yet. Here, based on the observation that baicalin, a flavonoid from the herbal
+  medicine Scutellaria baicalensis , has unique antisteatosis activity, we performed
+  quantitative chemoproteomic profiling and identified carnitine palmitoyltransferase
+  1 (CPT1), the controlling enzyme for fatty acid oxidation, as the key target of
+  baicalin. The flavonoid directly activated hepatic CPT1 with isoform selectivity
+  to accelerate the lipid influx into mitochondria for oxidation. Chronic treatment
+  of baicalin ameliorated diet-induced obesity (DIO) and hepatic steatosis and led
+  to systemic improvement of other metabolic disorders. Disruption of the predicted
+  binding site of baicalin on CPT1 completely abolished the beneficial effect of the
+  flavonoid. Our discovery of baicalin as an allosteric CPT1 activator opens new opportunities
+  for pharmacological treatment of DIO and associated sequelae.
+links:
+- name: URL
+  url: https://pnas.org/doi/full/10.1073/pnas.1801745115
+---

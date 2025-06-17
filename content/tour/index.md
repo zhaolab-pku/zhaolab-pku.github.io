@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Spatial Omics Laboratory
+        content: 'Just opened last year!'
         align: right
         background:
           image:

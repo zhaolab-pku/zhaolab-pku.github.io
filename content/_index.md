@@ -7,15 +7,12 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      # title: ZhaoLab
       image:
         filename: welcome.jpg
       text: |
-        <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Our laboratory elucidates the molecular and structural mechanisms governing physiological and pathological changes by developing integrated 3D spatial multi-omics technologies combining whole-organ tissue clearing, advanced imaging, and deep-learning-based analysis, applied across biomedical fields including Cancer & Microbiome, Neuroscience, and Quantitative Medicine.
   
   - block: collection
     content:
