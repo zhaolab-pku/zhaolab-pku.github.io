@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '40.3774'
         longitude: '116.6983'
-      directions: Enter Building 5 and take the stairs to Office 502 on Floor 2
+      directions: Enter Building 5 and take the stairs to Office 5201 on Floor 2
       office_hours:
         - 'weekdays 08:00 to 18:00'
       # appointment_url: 'https://calendly.com'
