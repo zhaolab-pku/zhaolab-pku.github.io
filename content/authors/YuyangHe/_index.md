@@ -70,4 +70,4 @@ user_groups:
   - Members
 ---
 
-Yuyang He is a direct doctoral student who enrolled in 2025. His research interests are mainly in 3D computational pathology and visual language models.
+Yuyang is a direct doctoral student in the class of 2025. His hobbies include exercise, travel, and photography.

@@ -4,7 +4,7 @@ date: 2024-10-08
 
 ---
 
-Professor Zhao Shan has joined the Peking University School of Future Technology! The laboratory is located at the National Biomedical Imaging Center at Peking University.
+Dr. Zhao has joined the college  of Future Technology at Peking University. Our laboratory is affiliated at the National Biomedical Imaging Centre of Peking University. 
 
 <!--more-->
 

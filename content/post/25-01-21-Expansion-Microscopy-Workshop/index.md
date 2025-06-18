@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-The expansion microscopy workshop was successfully held at the NBIC and the Peking University. The workshop invited Mojtaba R. Tavakoli, the inventor of LICONN technology for expansion microscopy, to serve as the training instructor.
+Our lab, together with Dr. Kun Song's lab and Professor Liangyi Chen's lab, successfully organised Expansion Microscopy Workshop at NBIC of Peking University, which was led by Dr. Mojtaba R. Tavakoli, who invented LICONN technology. The workshop hosted around 30 scientists nationwide and shared state-of-the-art technology. 
 
 <!--more-->
 

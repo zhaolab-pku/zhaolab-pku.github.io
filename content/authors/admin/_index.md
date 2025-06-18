@@ -10,7 +10,7 @@ last_name: Zhao
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Principal Investigator
 
 
 # Organizations/Affiliations
@@ -83,4 +83,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Our laboratory is committed to elucidating the molecular and structural details of organism that governing physiological and pathological changes, by developing 3D multi-omics technologies that combining whole organ transparency, advanced imaging system (e.g. light-sheet) and deep-learning based analysis for a wide range of biomedical studies, including Cancer and Microbiome, Neuroscience, Quantitative Medicine. 
+Our laboratory is committed to elucidating the holistic molecular and structural details of organisms that governing physiological and pathological changes by developing integrated 3D spatial multi-omics technologies, which combining whole-organ tissue transparency, advanced imaging systems (e.g. light sheet fluorescence microscopy), and deep-learning-based analysis for a wide range of biomedical studies including Cancer & Microbiome, Neuroscience, and Quantitative Medicine.
