@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yuyang_he1949@163.com'
+    link: 'mailto:yuyanghe25@stu.pku.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen

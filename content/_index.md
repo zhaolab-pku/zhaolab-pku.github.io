@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-11-04
 type: landing
 
 sections:
@@ -9,10 +9,10 @@ sections:
     content:
       # title: ZhaoLab
       image:
-        filename: welcome.jpg
+        filename: lab.png
       text: |
         
-        Our laboratory elucidates the molecular and structural mechanisms governing physiological and pathological changes by developing integrated 3D spatial multi-omics technologies combining whole-organ tissue clearing, advanced imaging, and deep-learning-based analysis, applied across biomedical fields including Cancer & Microbiome, Neuroscience, and Quantitative Medicine.
+        Our laboratory is committed to elucidating the holistic molecular and structural details of organisms that governing physiological and pathological changes by developing integrated 3D spatial multi-omics technologies, which combining novel probe design, whole-organ tissue transparency, advanced imaging systems (e.g. light sheet fluorescence microscopy), and deep-learning-based analysis for a wide range of biomedical studies including neuroscience, cancer, and quantitative medicine.
   
   - block: collection
     content:
