@@ -6,7 +6,7 @@ last_name: Xu
 authors:
   - MingzheXu
 superuser: false
-role: Ph.D. Student
+role: Ph.D.
 
 organizations:
   - name: Peking University
