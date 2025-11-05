@@ -25,13 +25,18 @@ education:
       year: 2025–Present
     - course: M.Sc. in Chinese Medicinal Science
       institution: University of Macau
-      year: 2021-2024
+      year: 2018-2021
     - course: B.Sc. in Chinese Materia Medica
       institution: Beijing University of Chinese Medicine
-      year: 2017-2021
+      year: 2014-2018
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "pengliu25@stu.pku.edu.cn"
 
 # social: []
-# email: ""
+# email: "pengliu25@stu.pku.edu.cn"
 
 user_groups:
   - Members

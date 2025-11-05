@@ -44,5 +44,3 @@ Yimiao Zhang is a research assistant at the Biomedical Imaging Center, Peking Un
 She holds a Master of Biotechnology from the University of Queensland and a Bachelor of Arts in Biological Sciences from the University at Buffalo, U.S.  
 
 Her research focuses on tumor three-dimensional digital imaging and computational modeling based on deep learning. She has extensive experience in tissue clearing, immunostaining, CRISPR, flow cytometry, molecular cloning, and bioimaging analysis.  
-
-Yimiao has presented her work at several international conferences, including the China-Korea Forum on Ion Regulation and Advanced Biomedical Imaging (2025) and the ANZGOG Conference on Gynaecological Oncology (2024).

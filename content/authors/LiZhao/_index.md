@@ -39,6 +39,6 @@ user_groups:
 Li Zhao joined the laboratory in February 2025 as a research assistant.  
 She holds a bachelor's degree in Biotechnology from Wuhan University of Technology (a Project 211 university) and has extensive experience in cell and molecular biology.  
 
-Before joining the group, she worked at several biotechnology companies, including Aochuangxin Pharmaceutical (Beijing) Technology Co., Ltd. and Haizhuo Biotech (Beijing) Technology Co., Ltd., where she gained solid technical expertise in cell culture, protein analysis (ELISA, Western blot, flow cytometry), and molecular cloning.  
+Before joining the group, she worked at several biotechnology companies, where she gained solid technical expertise in cell culture, protein analysis (ELISA, Western blot, flow cytometry), and molecular cloning.  
 
 Li is responsible for supporting laboratory research operations and maintaining smooth daily experimental workflows.
