@@ -25,10 +25,10 @@ education:
   courses:
     - course: Master of Biotechnology
       institution: University of Queensland
-      year: 2024
+      year: 2022-2024
     - course: Bachelor of Arts in Biological Sciences
       institution: University at Buffalo
-      year: 2021
+      year: 2017-2021
 
 social:
   - icon: envelope
