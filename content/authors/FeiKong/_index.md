@@ -6,13 +6,13 @@ last_name: Kong
 authors:
   - FeiKong
 superuser: false
-role: Incoming Ph.D.
+role: Ph.D.
 
 organizations:
   - name: Peking University
     url: "https://future.pku.edu.cn/index.htm"
 
-bio: Incoming Ph.D. student focusing on multimodal artificial intelligence for biomedicine, digital pathology, and spatial omics.
+bio: Ph.D. student focusing on multimodal artificial intelligence for biomedicine, digital pathology, and spatial omics.
 
 interests:
   - Artificial intelligence for biomedicine
@@ -37,7 +37,7 @@ email: ""
 user_groups:
   - Members
 ---
-Fei Kong is an incoming Ph.D. student majoring in Biomedical Engineering at Peking University, starting in September 2026.
+Fei Kong is a Ph.D. student majoring in Biomedical Engineering at Peking University. He began his doctoral studies in September 2026.
 
 He received his M.S. degree in Biomedical Engineering from Tsinghua University and earned his B.Eng. in Software Engineering from Yunnan University.
 
